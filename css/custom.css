@@ -72,6 +72,24 @@ p {
 	color: #FFF;
 }
 
+.fa-facebook {
+	transition: background-color 0.3s, color 0.3s;
+}
+
+.fa-facebook:hover {
+	background-color: #3b5998 !important;
+	color: white !important;
+}
+
+.fa-twitter {
+	transition: background-color 0.3s, color 0.3s;
+}
+
+.fa-twitter:hover {
+	background-color: #00aced !important;
+	color: white !important;
+}
+
 /*Who we are: Learn More*/
 .learnMore {
 	background-color: #3498DB;
@@ -101,7 +119,9 @@ p {
     width: 38px;
 }
 
-
+.client img {
+	transition: filter 0.3s;
+}
 
 
 

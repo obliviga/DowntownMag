@@ -132,7 +132,7 @@
     // Defaults
     $.fn.scrollUp.defaults = {
         scrollName: 'scrollUp',      // Element ID
-        scrollDistance: 2000,         // Distance from top/bottom before showing element (px)
+        scrollDistance: 1500,         // Distance from top/bottom before showing element (px)
         scrollFrom: 'top',           // 'top' or 'bottom'
         scrollSpeed: 300,            // Speed back to top (ms)
         easingType: 'linear',        // Scroll to top easing (see http://easings.net/)
