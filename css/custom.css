@@ -40,3 +40,34 @@ p {
 .advertise-blurb p {
 	text-align: center;
 }*/
+
+/*Team Page*/
+
+.center-image {
+	margin-bottom: 10px;
+}
+
+.social-media .linkedin {
+	background: none repeat scroll 0 0 #0077B5;
+	color: #FFF;
+}
+
+.social-media .user {
+	background: none repeat scroll 0 0 #EEB111;
+	color: #FFF;
+}
+
+.social-media .pinterest {
+	background: none repeat scroll 0 0 #BD2126;
+	color: #FFF;
+}
+
+.social-media .instagram {
+	background: none repeat scroll 0 0 #9B6E54;
+	color: #FFF;
+}
+
+.social-media .rss {
+	background: none repeat scroll 0 0 #F99A38;
+	color: #FFF;
+}
