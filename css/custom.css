@@ -1,3 +1,8 @@
+@font-face {
+    font-family: Dynalight-Regular;
+    src: url(../fonts/Dynalight-Regular.woff);
+}
+
 p {
 	font-size: 16px;
 }
@@ -113,7 +118,7 @@ p {
 
 #scrollUp {
 	background: url("../images/top.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
-    bottom: 20px;
+    bottom: 10px;
     height: 38px;
     right: 20px;
     width: 38px;
@@ -123,9 +128,15 @@ p {
 	transition: filter 0.3s;
 }
 
+.quote {
+	font-family: Dynalight-Regular;
+	font-size: 36px;
+}
 
-
-
+.advertise {
+   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+   font-weight: 300;
+}
 
 
 
