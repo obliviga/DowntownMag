@@ -1,5 +1,13 @@
-@media screen and (max-width: 980px) {
-/*    body {
-        background-color: lightblue;
-    }*/
+@media screen and (max-width: 1280px) {
+	#ramsey-image {
+    width: 57%;
+	}
+	#downtown-image {
+		width: 80%;
+	}
+}
+@media screen and (min-width: 1281px) {
+	#downtown-image {
+		padding-left: 5%;
+	}
 }
