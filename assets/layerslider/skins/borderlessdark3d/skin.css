@@ -42,34 +42,16 @@
 	background-position: 0px 0px;
 }
 
-.ls-borderlessdark3d .ls-nav-prev:hover {
-	background-position: 0px -75px;
-}
-
 .ls-borderlessdark3d .ls-nav-next {
 	background-position: -150px 0px;
-}
-
-.ls-borderlessdark3d .ls-nav-next:hover {
-	background-position: -150px -75px;
 }
 
 .ls-borderlessdark3d .ls-nav-start {
 	background-position: -300px 0px;
 }
 
-.ls-borderlessdark3d .ls-nav-start:hover,
-.ls-borderlessdark3d .ls-nav-start-active {
-	background-position: -300px -75px;
-}
-
 .ls-borderlessdark3d .ls-nav-stop {
 	background-position: -450px 0px;
-}
-
-.ls-borderlessdark3d .ls-nav-stop:hover,
-.ls-borderlessdark3d .ls-nav-stop-active {
-	background-position: -450px -75px;
 }
 
 .ls-borderlessdark3d .ls-bottom-slidebuttons a {

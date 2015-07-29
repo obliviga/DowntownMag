@@ -543,7 +543,7 @@
 
 /* Removing all default global styles of WordPress themes */
 
-html * .ls-nav-prev,
+/*html * .ls-nav-prev,
 html * .ls-nav-next,
 html * .ls-container img,
 html * .ls-bottom-nav-wrapper a,
@@ -570,7 +570,7 @@ body * .ls-thumbnail a,
 	outline: none;
 	padding: 0;
 	border: 0;
-}
+}*/
 
 html * .ls-slide > a,
 body * .ls-slide > a,
@@ -615,7 +615,7 @@ body * .ls-slide > *,
 	margin: 0;
 }
 
-html * .ls-container img,
+/*html * .ls-container img,
 body * .ls-container img,
 #ls-global * .ls-container img {
 	background: none !important;
@@ -625,7 +625,7 @@ body * .ls-container img,
 	box-shadow: none;
 	border: 0;
 	padding: 0;
-}
+}*/
 
 /*html * .ls-thumbnail a img,
 body * .ls-thumbnail a img,

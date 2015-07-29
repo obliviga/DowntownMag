@@ -1,8 +1,3 @@
-@font-face {
-    font-family: Dynalight-Regular;
-    src: url(../fonts/Dynalight-Regular.woff);
-}
-
 p {
 	font-size: 16px;
 }
@@ -118,7 +113,7 @@ p {
 
 #scrollUp {
 	background: url("../images/top.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
-    bottom: 10px;
+    bottom: 20px;
     height: 38px;
     right: 20px;
     width: 38px;
@@ -128,31 +123,17 @@ p {
 	transition: filter 0.3s;
 }
 
-.quote {
-	font-family: Dynalight-Regular;
-	font-size: 36px;
+/*Background 2*/
+div.ls-slide:nth-child(3) > img:nth-child(1) {
+	margin-top: -100px !important;
 }
 
-.advertise {
-   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
-   font-weight: 300;
+.downtown-image {
+    display: table-column;
+    margin-left: 1em;
+    margin-top: -5em;
+    position: inherit;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
